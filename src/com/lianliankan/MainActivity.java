@@ -1,4 +1,6 @@
-package com.example.test;
+package com.lianliankan;
+
+import com.example.test.R;
 
 import android.os.Bundle;
 import android.app.Activity;
